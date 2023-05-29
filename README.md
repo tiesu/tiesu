@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 [![LeetCode user blakekim93](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fblakekim93&logo=leetcode&logoColor=yellow)](https://leetcode.com/blakekim93/)
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/lapor?ext=heatmap)
+![Leetcode Stats](https://leetcard.jacoblin.cool/blakekim93?ext=heatmap)
